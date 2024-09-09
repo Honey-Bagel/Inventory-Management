@@ -1,0 +1,23 @@
+Pistachios,25,3.99
+Walnuts,10,4.49
+Artichokes,38,3.29
+Celery,49,2.99
+Garlic,24,3.99
+Prunes,19,3.00
+Raisins,30,4.50
+Olives,67,6.99
+Peaches,20,2.49
+Nectarines,29,7.51
+Kiwi,49,3.49
+Pomegranates,51,5.50
+Honeydew,68,2.49
+Figs,32,1.49
+Plums,45,2.99
+Grapes,18,4.99
+Rice,70,10.00
+Lima Beans,47,9.99
+Corn,35,6.00
+Soybeans,29,7.00
+Winter Wheat,48,3.99
+Durum Wheat,71,4.50
+Spring Wheat,65,4.99
